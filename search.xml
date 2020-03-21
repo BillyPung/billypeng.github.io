@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>建站记录 ii</title>
+    <url>/billypung.github.io/2020/03/19/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95-ii/</url>
+    <content><![CDATA[<h1 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h1><p>本篇记录时间段为建站成功到完成一些基础优化，2020年3月19日至今。</p>
+<a id="more"></a>
+
+<h1 id="记录"><a href="#记录" class="headerlink" title="记录"></a>记录</h1><p>3.19.2020    申请了免费的ssl证书。</p>
+<p>3.19.2020    通过Github Pages的Enforce HTTPS，登录本网站时都会有小锁啦。</p>
+<p>3.19.2020    开启了Valine评论，你可以在文章下方留言了。</p>
+<p>3.19.2020    启用了本地搜索功能，虽然还没有几篇文章。。。</p>
+<p>3.20-3.21.2020 遇见莫名其妙的bug（页面有链接，有主题排版，但无文字），debug后应该为非theme文件的bug。屡次debug无果，再次启用全盘重来的方式（疯了），并将主题NexT改为最新版本（v5-&gt;v7）。决定将每次添加新功能时在本地备份一次。</p>
+<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/TIM%E6%88%AA%E5%9B%BE20200320190856.png" alt=""></p>
+<p align="center"><font size="0.8">绝望 Billy 绝望</font></p>
+
+<p>3.21.2020 使用Github为图床，博客内有图啦。（如上）</p>
+<p>To be continued…</p>
+<h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><ul>
+<li>关于广告，我还是太年轻，不搞了</li>
+<li>了解一下知识共享协议（CC）后如果可以，会选择加入（实在不行也可以用WTFPL啊[笑]）（你不知道WTFPL是什么？&rArr;<a href="http://www.wtfpl.net" target="_blank" rel="noopener">Do What The F**k You Want  To Public License</a></li>
+</ul>
+]]></content>
+      <categories>
+        <category>建站记录</category>
+      </categories>
+      <tags>
+        <tag>建站记录</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>tips</title>
+    <url>/billypung.github.io/2020/03/18/tips/</url>
+    <content><![CDATA[<p align="center"><font color= "red" size="5">本网站仍在建设初期，难免会出现各种奇怪的现象。</font></p>
+
+<a id="more"></a>
+
+<p align="center">敬请各位的理解，或联系我，谢谢！</p>]]></content>
+      <tags>
+        <tag>tmp</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>建站记录 i</title>
+    <url>/billypung.github.io/2020/03/18/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95-i/</url>
+    <content><![CDATA[<h4 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h4><p>本记录的时间段为建站前到建站成功，2020年3月16-18日。</p>
+<a id="more"></a>
+
+<h4 id="提示"><a href="#提示" class="headerlink" title="提示"></a><strong><em>提示</em></strong></h4><p><em>本篇阅读时间大致需要0-2分钟</em><br><em><del>因为没啥内容，不看也没什么</del></em></p>
+<hr>
+<h4 id="简介"><a href="#简介" class="headerlink" title="简介"></a><strong>简介</strong></h4><p>所谓建站记录，便是用来记录本站相关的一些大事，并同时画画饼。</p>
+<p>​            <del>并让大家清晰地看到我是从多久开始咕咕咕的</del></p>
+<p>另外，本篇也是用来练习熟练Markdown语法的。</p>
+<hr>
+<h4 id="记录"><a href="#记录" class="headerlink" title="记录"></a><strong>记录</strong></h4><ul>
+<li>3.16.2020以前     多次进入他人博客，并偶然浏览到一网友自己建站</li>
+<li>3.16.2020            决定建立一个个人博客</li>
+<li>3.16.2020            在经多方比价以及优劣比较后，采用Hexo &amp; Github Pages的方式搭建</li>
+<li>3.16.2020            开始动手搭建</li>
+<li>3.16.2020            作为完全的新人，选择同时参考数份攻略，但仍因经验不足，不断报错</li>
+<li>3.17.2020            采用几乎全盘重来的方式找到了坑，成功上传</li>
+<li>3.17.2020            可以通过 billypung.github.io 访问本网站了</li>
+<li>3.17.2020            购买了域名，可以通过 billypeng.top 访问本网站了</li>
+<li>3.18.2020            学习了基本的Markdown语法后，开始撰写第一篇文章（本文）</li>
+<li>3.18.2020            给网站添加了一些分类和标签</li>
+</ul>
+<hr>
+<h4 id="未来的打算"><a href="#未来的打算" class="headerlink" title="未来的打算"></a><strong>未来的打算</strong></h4><ul>
+<li>开几个小专栏，贴些小工具，小技巧等上来，也可以（在法律准许范围内）吐吐槽 等等。</li>
+<li>申请ssl证书并将本网站协议头升级为https。但<del>辣鸡</del>Tencent cloud限制了可添加A记录的数量，导致不能免费使用GitHub提供的免费的https升级方式。<br><del>小朋友你是否有很多小问号？</del></li>
+<li>虽然使用了模板，但最好还是改下背景之类的。。</li>
+<li>劫个live2d模型来本站当看板娘。如果自己做得出来就更好了。（但效果肯定会更糟）</li>
+<li>整个图床，才能在页面里贴些奇奇怪怪的图片啊。</li>
+</ul>
+<hr>
+<p align="center"><font size = "5" color ="#0066CC">不论如何，感谢您的拜访与关注</font></p>]]></content>
+      <categories>
+        <category>建站记录</category>
+      </categories>
+      <tags>
+        <tag>建站记录</tag>
+      </tags>
+  </entry>
+</search>
