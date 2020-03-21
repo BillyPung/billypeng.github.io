@@ -1,6 +1,72 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>音乐分享：安田レイ - Re:I</title>
+    <url>/billypung.github.io/2020/03/21/%E9%9F%B3%E4%B9%90%E5%88%86%E4%BA%AB%EF%BC%9A%E5%AE%89%E7%94%B0%E3%83%AC%E3%82%A4-Re-I/</url>
+    <content><![CDATA[<a id="more"></a>
+
+<p align="center"><font color=red>本文内容及资源仅供学习和参考</font></p>
+
+<p align="center"><font color=red>请在下载后24小时内删除！</font></p>
+
+<p align="center">如果喜欢，请购买正版！</p>
+
+<p><del>正事不干，先来水一贴</del></p>
+<p>安田丽新专，第三张专辑发售了！</p>
+<p>专辑封面：</p>
+<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/%E5%AE%89%E7%94%B0%E4%B8%BDRe%3AI-cover.jpg" alt=""></p>
+<p>个人感觉，整体质量仍然不错！</p>
+<p>之前有人拿安田和Aimer比较，在此不说比较结果，但这两位的歌名是越来越像了。。</p>
+<table>
+<thead>
+<tr>
+<th align="center">安田レイ</th>
+<th align="center">Aimer</th>
+</tr>
+</thead>
+<tbody><tr>
+<td align="center">Re:I</td>
+<td align="center">Re:I Am</td>
+</tr>
+<tr>
+<td align="center">1AM</td>
+<td align="center">AM 2:00, AM3:00, AM 4:00</td>
+</tr>
+</tbody></table>
+<p align="center"><font size="2">以上是我瞎编的啊</font></p>
+
+<p>在此，附上网易云链接：<a href=": http://music.163.com/album/86182947/?userid=532284935">《安田レイ - Re:I》</a></p>
+<p>另附Hi-res，24bit/96kHz网盘地址：YUhSMGNITTZMeTl3WVc0dVltRnBaSFV1WTI5dEwzTXZNVlpDY0dWQ1NEWnFVVEZwYUVOblltNUpWM2hLWjJjPQ==</p>
+<p>（base64加密*2）<s>别打我</s></p>
+<p>再带最近几个单曲的封面：</p>
+<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/sunny-cover.jpg" alt=""></p>
+<p align="center">《Sunny》</p>
+
+<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCcover-.jpg" alt=""></p>
+<p align="center">《アシンメトリー》</p>
+
+<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/kiminouta-cover.jpg" alt=""></p>
+<p align="center">《きみのうた》</p>
+
+
+
+
+
+<p align="center"><s>是不是图片大了一点啊</s></p>
+
+
+
+]]></content>
+      <categories>
+        <category>音乐</category>
+      </categories>
+      <tags>
+        <tag>音乐分享</tag>
+        <tag>Hi-res</tag>
+        <tag>安田レイ</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>建站记录 ii</title>
     <url>/billypung.github.io/2020/03/19/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95-ii/</url>
     <content><![CDATA[<h1 id="摘要"><a href="#摘要" class="headerlink" title="摘要"></a>摘要</h1><p>本篇记录时间段为建站成功到完成一些基础优化，2020年3月19日至今。</p>
@@ -11,10 +77,13 @@
 <p>3.19.2020    开启了Valine评论，你可以在文章下方留言了。</p>
 <p>3.19.2020    启用了本地搜索功能，虽然还没有几篇文章。。。</p>
 <p>3.20-3.21.2020 遇见莫名其妙的bug（页面有链接，有主题排版，但无文字），debug后应该为非theme文件的bug。屡次debug无果，再次启用全盘重来的方式（疯了），并将主题NexT改为最新版本（v5-&gt;v7）。决定将每次添加新功能时在本地备份一次。</p>
-<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/TIM%E6%88%AA%E5%9B%BE20200320190856.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/BillyPung/PicSource/img/img/%E5%BB%BA%E7%AB%99%E8%AE%B0%E5%BD%95ii_Bug.png" alt=""></p>
 <p align="center"><font size="0.8">绝望 Billy 绝望</font></p>
 
 <p>3.21.2020 使用Github为图床，博客内有图啦。（如上）</p>
+<p align="center"><font size="5" color=red>图片可能会加载不出来，请刷新</font><s>或挂墙</s></p>
+
+<p>3.21.2020 使用了新版NexT主题自带的pjax，应该浏览会快一点了。</p>
 <p>To be continued…</p>
 <h1 id="展望"><a href="#展望" class="headerlink" title="展望"></a>展望</h1><ul>
 <li>关于广告，我还是太年轻，不搞了</li>
