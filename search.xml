@@ -15,7 +15,7 @@
 <p><del>正事不干，先来水一贴</del></p>
 <p>安田丽新专，第三张专辑发售了！</p>
 <p>专辑封面：</p>
-<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/%E5%AE%89%E7%94%B0%E4%B8%BDRe%3AI-cover.jpg" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/billypung/picsource/img/Re:I-cover.jpg" alt=""></p>
 <p>个人感觉，整体质量仍然不错！</p>
 <p>之前有人拿安田和Aimer比较，在此不说比较结果，但这两位的歌名是越来越像了。。</p>
 <table>
@@ -41,13 +41,15 @@
 <p>另附Hi-res，24bit/96kHz网盘地址：YUhSMGNITTZMeTl3WVc0dVltRnBaSFV1WTI5dEwzTXZNVlpDY0dWQ1NEWnFVVEZwYUVOblltNUpWM2hLWjJjPQ==</p>
 <p>（base64加密*2）<s>别打我</s></p>
 <p>再带最近几个单曲的封面：</p>
-<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/sunny-cover.jpg" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/billypung/picsource/img/sunny-cover.jpg" alt=""></p>
 <p align="center">《Sunny》</p>
 
-<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCcover-.jpg" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/billypung/picsource/img/%E3%82%A2%E3%82%B7%E3%83%B3%E3%83%A1%E3%83%88%E3%83%AA%E3%83%BCcover-.jpg" alt=""></p>
 <p align="center">《アシンメトリー》</p>
 
-<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/kiminouta-cover.jpg" alt=""></p>
+
+
+<p><img src="https://cdn.jsdelivr.net/gh/billypung/picsource/img/kiminouta-cover.jpg" alt=""></p>
 <p align="center">《きみのうた》</p>
 
 
@@ -85,11 +87,13 @@
 <p>3.19.2020    开启了Valine评论，你可以在文章下方留言了。</p>
 <p>3.19.2020    启用了本地搜索功能，虽然还没有几篇文章。。。</p>
 <p>3.20-3.21.2020 遇见莫名其妙的bug（页面有链接，有主题排版，但无文字），debug后应该为非theme文件的bug。屡次debug无果，再次启用全盘重来的方式（疯了），并将主题NexT改为最新版本（v5-&gt;v7）。决定将每次添加新功能时在本地备份一次。</p>
-<p><img src="https://raw.githubusercontent.com/BillyPung/PicSource/master/img/TIM%E6%88%AA%E5%9B%BE20200320190856.png" alt=""></p>
+<p><img src="https://cdn.jsdelivr.net/gh/billypung/picsource/img/TIM%E6%88%AA%E5%9B%BE20200320190856.png" alt=""></p>
 <p align="center"><font size="0.8">绝望 Billy 绝望</font></p>
 
 <p>3.21.2020 使用Github为图床，博客内有图啦。（如上）</p>
-<p align="center"><font size="5" color=red>图片可能会加载不出来，请刷新</font><s>或挂墙</s></p>
+<p align="center"><font size="5" color=red><s>图片可能会加载不出来，请刷新</font><s>或挂墙</s></p>
+
+<p align="center">现在应该没问题了，用了jsdelivr的cdn加速了
 
 <p>3.21.2020 使用了新版NexT主题自带的pjax，应该浏览会快一点了。</p>
 <p>To be continued…</p>
