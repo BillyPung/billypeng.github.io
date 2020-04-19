@@ -48,9 +48,8 @@
 
 <p>注：我不是太熟悉Python的使用，作者在issue中<a href="https://github.com/ningshanwutuobang/ChaosChildPCTools/issues/1" target="_blank" rel="noopener">提到的格式</a>我这里用不起，请自行尝试。</p>
 <p>到这里，应该就可以在同名文件夹内找到正确的图像了。</p>
-<img src="https://cdn.jsdelivr.net/gh/billypung/picsource/img/CRS_BMC_1.jpg" style="zoom:20%;" />
-
-
+<p><img src="https://cdn.jsdelivr.net/gh/billypung/picsource/img/CRSBMC1.jpg" alt=""></p>
+<p align="center"><font size="1">图片已压缩，非高清！！</font></p>
 
 <p><span class="heimu">感觉文章有点乱，各位将就看吧</span></p>
 <p>以上。</p>
@@ -59,6 +58,13 @@
       <categories>
         <category>工具</category>
       </categories>
+      <tags>
+        <tag>MAGES.</tag>
+        <tag>Python</tag>
+        <tag>.mpk</tag>
+        <tag>解包</tag>
+        <tag>命运石之门</tag>
+      </tags>
   </entry>
   <entry>
     <title>致各位的一封信</title>
