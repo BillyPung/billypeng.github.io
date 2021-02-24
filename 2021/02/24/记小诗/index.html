@@ -329,11 +329,6 @@
           </div>
 
         
-  <div class="post-widgets">
-    <div class="wp_rating">
-      <div id="wpac-rating"></div>
-    </div>
-  </div>
 
 
         
@@ -585,26 +580,6 @@ window.addEventListener('pjax:success', () => {
 
 
 
-  <script pjax>
-  if (CONFIG.page.isPost) {
-    wpac_init = window.wpac_init || [];
-    wpac_init.push({
-      widget: 'Rating',
-      id    : 29498,
-      el    : 'wpac-rating',
-      color : 'fc6423'
-    });
-    (function() {
-      if ('WIDGETPACK_LOADED' in window) return;
-      WIDGETPACK_LOADED = true;
-      var mc = document.createElement('script');
-      mc.type = 'text/javascript';
-      mc.async = true;
-      mc.src = '//embed.widgetpack.com/widget.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc, s.nextSibling);
-    })();
-  }
-  </script>
 
   
 <script src="/billypung.github.io/js/local-search.js"></script>
@@ -614,7 +589,6 @@ window.addEventListener('pjax:success', () => {
 
 
 
-  <script src="//code.tidio.co/r5d7zhnjqz4htlpcfszsot3ijltszuub.js"></script>
 
 
 
