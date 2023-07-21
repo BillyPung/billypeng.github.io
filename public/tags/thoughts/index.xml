@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>thoughts on Billy&#39;s Blog</title>
+    <link>billypeng.top/tags/thoughts/</link>
+    <description>Recent content in thoughts on Billy&#39;s Blog</description>
+    <image>
+      <title>Billy&#39;s Blog</title>
+      <url>billypeng.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>billypeng.top/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 11 Jun 2022 11:30:03 +0000</lastBuildDate><atom:link href="billypeng.top/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>浅谈女权关键词</title>
+      <link>billypeng.top/%E6%B5%85%E8%B0%88%E5%A5%B3%E6%9D%83%E5%85%B3%E9%94%AE%E8%AF%8D/</link>
+      <pubDate>Sat, 11 Jun 2022 11:30:03 +0000</pubDate>
+      
+      <guid>billypeng.top/%E6%B5%85%E8%B0%88%E5%A5%B3%E6%9D%83%E5%85%B3%E9%94%AE%E8%AF%8D/</guid>
+      <description>写篇散文阐述阐述自己的一些看法，给身边的人一个了解自己的机会。没啥大逻辑，不会写文章，随便看看就好。</description>
+    </item>
+    
+  </channel>
+</rss>
