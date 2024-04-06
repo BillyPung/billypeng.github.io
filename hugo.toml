@@ -1,0 +1,4 @@
+baseURL = 'https://billypeng.top/'
+languageCode = 'en-us'
+title = "Shengyang's Photograph Gallery"
+theme = 'gallery'
