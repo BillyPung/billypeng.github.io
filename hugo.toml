@@ -1,4 +1,8 @@
 baseURL = 'https://billypeng.top/'
 languageCode = 'en-us'
-title = "Shengyang's Photograph Gallery"
+title = "Shengyang's Blog"
 theme = 'gallery'
+
+[services]
+  [services.googleAnalytics]
+    ID = 'G-B6B9PV32WD'
